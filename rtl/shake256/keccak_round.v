@@ -1,4 +1,5 @@
 // ============================================================================
+// Project:   SPHINCSLET
 // Description:   Keccak Round Module
 //
 //
@@ -84,7 +85,7 @@ endgenerate
 
 // Connections
 
-// Order is theata, pi, rho, chi, iota
+// Order is theta, pi, rho, chi, iota
 genvar i_i, j_j;
 generate
     for (i_i = 0; i_i < 5; i_i = i_i + 1) begin
