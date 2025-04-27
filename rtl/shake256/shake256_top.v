@@ -1,6 +1,7 @@
 
 // ============================================================================
-// Top Module for SHAKE256 with variable inputs and outputs.
+// Project:   SPHINCSLET
+// Description: Top Module for SHAKE256 with variable inputs and outputs.
 //
 //
 // The MIT License (MIT)
