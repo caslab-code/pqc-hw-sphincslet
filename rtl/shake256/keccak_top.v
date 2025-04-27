@@ -1,5 +1,5 @@
 // ============================================================================
-// Project:   Keccak Verilog Module
+// Project:   SPHINCSLET
 //
 // Description:
 //   Top-level module for the Keccak sponge function in Verilog.
@@ -8,8 +8,6 @@
 // as top module of keccak permutation.
 //
 // The MIT License (MIT)
-//
-// Copyright (c) 2024 Ma'muri
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
