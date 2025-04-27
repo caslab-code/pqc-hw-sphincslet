@@ -1,5 +1,5 @@
 // ============================================================================
-// Project:   Keccak Round Constants Module
+// Description:   Keccak Round Constants Module
 //
 //
 // The MIT License (MIT)
