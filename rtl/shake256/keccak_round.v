@@ -1,5 +1,5 @@
 // ============================================================================
-// Project:   Keccak Round Module
+// Description:   Keccak Round Module
 //
 //
 // This code is almost a straight translation of the VHDL high-speed module
